@@ -27,6 +27,7 @@ Reproduce as many canvas as I can that are made in the videos of
 * Diary
 ** [2020-12-16 Wed]
 - [[https://www.youtube.com/watch?v=X1SGxjMWbZs][Inkscape Beginner Tutorial: Inner Shadow Effect]]
+- [[./inkscape-beginner-tutorial/inkscape-beginner-tutorial-inner-shadow-effect.svg][inner shadow effect]] (svg file)
 - main commands:
   - ~ObjectToPath~
   - ~SelectionDiff~ (remove the intersection of the two object and
