@@ -1,6 +1,6 @@
 #+AUTHOR: Tony aldon
 #+TITLE: notes
-#+DATE: <2020-12-16 Wed>
+#+DATE: <2020-12-17 Thu>
 
 * About
 This repository contains my training work on Inkscape.
@@ -25,7 +25,28 @@ This repository contains my training work on Inkscape.
 Reproduce as many canvas as I can that are made in the videos of
 [[https://www.youtube.com/c/LogosByNick/playlists][LogosByNick playlists]].
 * Diary
-** [2020-12-16 Wed]
+** [2020-12-17 Thu]: Vector Abstract Background
+- [[https://www.youtube.com/watch?v=7hcxuwDKo6I][Inkscape Beginner Tutorial: Vector Abstract Background Tutorial]]
+- [[./inkscape-beginner-tutorial/vector-abstract-background.svg][vector abstract background]] (svg file)
+- main commands:
+  - ~ObjectToPath~
+  - ~DialogFillStroke > Mesh gradient~
+  - ~ToggleToolbox~
+  - ~Edit Meshes~ (part of the tool boxes)
+  - ~DialogLayers~
+  - ~new layer~
+  - ~ToolArc~ (hold ~ctrl~ and ~shift~ keys to make a perfect circle)
+  - play with /opacity/
+  - By holding ~ctrl~ key hand moving an object with the mooth, it
+    lockdown the movement horizontaly or verticaly respecting (x,y)
+    position of the starting point of the object
+  - By holding the ~left mooth click~ and pressing ~space~ you
+    duplicate an object
+  - ~lock layer~
+  - ~extensions > generate from path > voronoi diagrams > delaunay
+    triangulation~
+  - ~SelectionUnGroup~
+** [2020-12-16 Wed]: Inner Shadow Effect
 - [[https://www.youtube.com/watch?v=X1SGxjMWbZs][Inkscape Beginner Tutorial: Inner Shadow Effect]]
 - [[./inkscape-beginner-tutorial/inkscape-beginner-tutorial-inner-shadow-effect.svg][inner shadow effect]] (svg file)
 - main commands:
