@@ -1,0 +1,38 @@
+#+AUTHOR: Tony aldon
+#+TITLE: notes
+#+DATE: <2020-12-16 Wed>
+
+* About
+This repository contains my training work on Inkscape.
+
+1. /Images/, /drawings/, /schemas/, all kind of /pictures/ are really
+   powerful when it comes:
+   - to tell *STORIES*,
+   - to convey *EMOTIONS* and
+   - to disseminate *MESSAGES*.
+2. Well done, /images/ are easy:
+   - to *UNDERSTAND* and
+   - to *ASSIMILATE*.
+3. They can *SUMMARIZE* and *SIMPLIFY* elaborated /ideas/ and /contents/.
+4. They can help you *ENHANCED* /videos/ (after all, videos are just
+   many images sequentialy exposed in a fixe order - for a video
+   with a 25fps configuration, you are viewing 25 images per seconds
+   1500 images per minutes.)
+* Ressources
+- [[~/work/learning/tricks/org/media.org::*Custom keybindings][inkscape custom keybindings (tricks document)]] (if you see it on github [[https://github.com/tonyaldon/tricks/blob/master/org/media.org#custom-keybindings][tricks document]]).
+- [[~/work/settings/uconfig/.config/inkscape/keys/default.xml][inkscape custom keybindings (default.xml)]] (if you see it on github [[https://github.com/tonyaldon/uconfig/blob/master/.config/inkscape/keys/default.xml][default.xml]])
+* Focus
+Reproduce as many canvas as I can that are made in the videos of
+[[https://www.youtube.com/c/LogosByNick/playlists][LogosByNick playlists]].
+* Diary
+** [2020-12-16 Wed]
+- [[https://www.youtube.com/watch?v=X1SGxjMWbZs][Inkscape Beginner Tutorial: Inner Shadow Effect]]
+- main commands:
+  - ~ObjectToPath~
+  - ~SelectionDiff~ (remove the intersection of the two object and
+    keep the other part of the one below)
+  - ~object > clip > set~ (intersect between two object and keep style
+    of the one below)
+  - Add 1% /blur/ and play with /opacity/
+  - ~object > clip > release~ (a kind of reverse operation of ~object >
+    clip > set~)
