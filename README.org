@@ -25,6 +25,24 @@ This repository contains my training work on Inkscape.
 Reproduce as many canvas as I can that are made in the videos of
 [[https://www.youtube.com/c/LogosByNick/playlists][LogosByNick playlists]].
 * Diary
+** [2020-12-22 Tue]: Infinite Loop Icon
+- [[https://www.youtube.com/watch?v=r9WLZgfr-NQ][Inkscape for Beginners: Infinite Loop Icon]]
+- [[./inkscape-beginner-tutorial/infinite-loop-icon.svg][infinite loop icon]] (svg file)
+- main commands:
+  - ~ToolRect~
+  - ~ObjectToPath~
+  - ~EditPastSize~
+  - ~ToolNode~
+  - ~insert new nodes into selected segment~
+  - ~make selected node corner~
+  - ~EditDuplicate~
+  - ~ObjectFlipHorizontally~
+  - In Stroke style, select ~rounded join~ and ~rounded cap~.
+  - ~StrokeToPath~
+  - ~SelectionUnion~
+  - ~ToolPen~
+  - ~ObjectFlipVertically~
+  - ~SelectionDiff~
 ** [2020-12-17 Thu]: Vector Abstract Background
 - [[https://www.youtube.com/watch?v=7hcxuwDKo6I][Inkscape Beginner Tutorial: Vector Abstract Background Tutorial]]
 - [[./inkscape-beginner-tutorial/vector-abstract-background.svg][vector abstract background]] (svg file)
