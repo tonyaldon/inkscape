@@ -1,6 +1,6 @@
 #+AUTHOR: Tony aldon
 #+TITLE: notes
-#+DATE: <2020-12-17 Thu>
+#+DATE: <2020-12-30 Wed>
 
 * About
 This repository contains my training work on Inkscape.
@@ -25,6 +25,29 @@ This repository contains my training work on Inkscape.
 Reproduce as many canvas as I can that are made in the videos of
 [[https://www.youtube.com/c/LogosByNick/playlists][LogosByNick playlists]].
 * Diary
+** <2020-12-30 Wed>: Drone Icon Vector Tutorial
+- [[https://www.youtube.com/watch?v=pICn4QTf3pQ][Inkscape for Beginners: Drone Icon Vector Tutorial]]
+- [[./inkscape-beginner-tutorial/drone-icon-vector-tutorial.svg][drone icon vector tutorial]] (svg file)
+- main commands:
+  - ~ToolStar~: (hold ~ctrl+shift~ keys to make regular form)
+  - In Stroke style, select ~rounded join~ and ~rounded cap~.
+  - ~ToolArc~: (hold ~ctrl+shift~ keys to make regular form, and the
+    center of the object doesn't move)
+  - opacity to 50%
+  - ~EditDuplicate~
+  - ~ToolDropper~
+  - In the toolbar (at the top) when a circle is selected, deselect
+    the icon ~scale the stroke width by the same proportion~.  This
+    allow you to scale down/up the circle (changing the radius) but
+    not changing the thikness of the stroke.
+  - ~ToolRect~
+  - ~SelectionCutPath~ (cut with limit of the above object and keep
+    the under object)
+  - ~SelectionUnion~
+  - ~ObjectFlipHorizontally~
+  - ~ObjectRotate90~
+  - ~SelectionGroup~
+  - ~SelectionUnGroup~
 ** [2020-12-22 Tue]: Infinite Loop Icon
 - [[https://www.youtube.com/watch?v=r9WLZgfr-NQ][Inkscape for Beginners: Infinite Loop Icon]]
 - [[./inkscape-beginner-tutorial/infinite-loop-icon.svg][infinite loop icon]] (svg file)
